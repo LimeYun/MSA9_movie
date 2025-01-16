@@ -65,7 +65,7 @@
 
 ---
 
-
+<details>
 <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
   
   ![image](https://github.com/user-attachments/assets/6c2567ac-311a-4c91-942e-78efc60e736a)
@@ -73,18 +73,18 @@
   ![image](https://github.com/user-attachments/assets/56eb3a57-564a-4709-815f-a94bc0585cdd)
   ![image](https://github.com/user-attachments/assets/9d6fe3d6-bb45-4f49-ac62-823ee5840872)
 
-
+</details>
 
 
 
 ---
 
-
+<details>
 <summary><h2>🗂️ <strong>ERD</strong></h2></summary>
   
  ![image](https://github.com/user-attachments/assets/119fd5e7-db40-4377-a8cf-95e2704693b0)
 
-
+</details>
 
 ---
 
@@ -130,31 +130,10 @@
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
-  
-  - ![메인 화면 1](https://drive.google.com/uc?id=1yh6VjIbCeInYo-_KqQyW2vTEP7gnNA-F)
-  - ![메인 화면 2](https://drive.google.com/uc?id=1hEVSpboUQm9o5r213w3gJHWvmnzdczJ_)  
-  
-</details>
+
+![image](https://github.com/user-attachments/assets/e8070844-fd99-4444-a370-cd7d30509809)
 
 
-
-
-<details>
-  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
-  
-   ![사용자 화면 1](https://drive.google.com/uc?id=1O1BXu6WmtA2OyEG3nG2A9kEhjSuktFGa)  
-   ![사용자 화면 2](https://drive.google.com/uc?id=1HJqOBN6oXwjIMtY-maCrsDgMHhYoI_E1)  
-   ![사용자 화면 3](https://drive.google.com/uc?id=15bSdEFbeBru9B1uCSQVIPwmcM86crBPu)  
-   ![사용자 화면 4](https://drive.google.com/uc?id=15c2rdAMuEmnWuePVZUbLWwCZBsyvlZTl)  
-   ![사용자 화면 5](https://drive.google.com/uc?id=1clm5jBjPY96qctQZUH6FusEwS1XF_cHT)  
-   ![사용자 화면 6](https://drive.google.com/uc?id=11ZOWSOEmw6deB-CA1sTSIDZ6xsCcjL77)  
-   ![사용자 화면 7](https://drive.google.com/uc?id=1Royy_rLz6QXJB7fCIqL4phCMQf1iRFjD)  
-   ![사용자 화면 8](https://drive.google.com/uc?id=1voKvWLdAeKPpy0MxVfqQbo-lr9iK-NYh)  
-   ![사용자 화면 9](https://drive.google.com/uc?id=1pt-fA0FSDrgToliYUJ8xpbSVUdvPyIwF)  
-   ![사용자 화면 10](https://drive.google.com/uc?id=1kB_HyRvQ0BACRceCA-hcf0pYr74aKniw)  
-   ![사용자 화면 11](https://drive.google.com/uc?id=1J5M1lapb-Zpg_E1OkDHWdL9Plm1JYlzR)  
-   ![사용자 화면 12](https://drive.google.com/uc?id=11kg9Bni5id0ywQ9KNXb1lOTtjZhgNCeO)  
-  
 </details>
 
 
