@@ -126,76 +126,32 @@
 
 ---
 &nbsp;
-# 📊 **화면 설계서**
+# 📊 **화면 설계**
 
 <details>
-  <summary><h3>🖥️ <strong>메인</strong></h3></summary>
+  <summary><h3>🖥️ <strong>사용자</strong></h3></summary>
 
-![image](https://github.com/user-attachments/assets/e8070844-fd99-4444-a370-cd7d30509809)
+![image](https://github.com/user-attachments/assets/d60cf186-d21b-42a4-ab31-4307a7b56f10)
+![image](https://github.com/user-attachments/assets/d08327eb-b5f0-46a5-aacc-5b37a245ee78)
+![image](https://github.com/user-attachments/assets/b313e903-cdb1-4fb4-b062-bfd76b2e8e2a)
+![image](https://github.com/user-attachments/assets/f580fb55-ee95-4edd-8dbe-30947e69bbe6)
+![image](https://github.com/user-attachments/assets/c7dfcb24-168b-4ca3-a0c6-02e5dc169a39)
+![image](https://github.com/user-attachments/assets/6e6db105-b726-40e4-97cf-be9fddf63fff)
 
 
 </details>
-
-
-
-
-
-<details>
-    <summary><h3>🛒구매</h3></summary>
-  
-   ![구매 화면 1](https://drive.google.com/uc?id=1NzWO2TYP_oB4soSpc6yet-DMpefrdqVf)  
-   ![구매 화면 2](https://drive.google.com/uc?id=1ihFTmX9HV5qs5a4d7FoaquHDbkcHL9Di)  
-   ![구매 화면 3](https://drive.google.com/uc?id=1QVO1rzbdXg5uWn4FMdSMjCtzTKhf2phd)  
-   ![구매 화면 4](https://drive.google.com/uc?id=14vNoq2OgDvmC8L0wHo2WecZ7hS5CZwuA)  
-   ![구매 화면 5](https://drive.google.com/uc?id=1SrJGinIcJ_SrdQyjRskCUQgbP-vK7HyB)  
-   ![구매 화면 6](https://drive.google.com/uc?id=1tWKuvCN7vdryQ_Lwj9x6QKPOACXOy5Hz)  
-  
-</details>
-
-
-
-<details>
-   <summary><h3>📝게시판</h3></summary>
-
-  ![게시판 화면 1](https://drive.google.com/uc?id=1uO0LOAOjzWHgF0A5mxLrnHFIxeSXTS-9)  
-  ![게시판 화면 2](https://drive.google.com/uc?id=1_kohsYXQ57KAEgcDht8_iUcm63uxQSvD)  
-  ![게시판 화면 3](https://drive.google.com/uc?id=1JjJ9nTbHnipXefpZvB7IYKcC4SsOKw-m)  
-  ![게시판 화면 4](https://drive.google.com/uc?id=1YqUDhQAAMJrfPLT2eddZouSxMJF62Z61)
-
-</details>
-
-
-
-
-
-
-<details>
-  <summary><h3>🗓️운동계획표</h3></summary>
-
-  ![운동계획표 화면](https://drive.google.com/uc?id=1i_Eu3jcmxAmLOztfJIER5MolzlshGXSJ)
-
-</details>
-
-
-
-
 
 <details>
   <summary><h3>🛠️<strong>관리자</strong></h3></summary>
 
-  ![화면1](https://drive.google.com/uc?id=153Nywa1Jwo9pR3tkO9ioTGSDTAjWeT6f)  
-  ![화면2](https://drive.google.com/uc?id=12fL2jq4lFESM7zK8d5Zrg0GUFNjCJKbM)  
-  ![화면3](https://drive.google.com/uc?id=1Gr429NeFAUKxSkFhZn2vBj38eF-37mfd)  
-  ![화면4](https://drive.google.com/uc?id=1-97K9z_EKkNg4AxKiVI7m63kUGmqIobD)  
-  ![화면5](https://drive.google.com/uc?id=18MjR2CW3hBDcwUfaGe45ra_Jp66-dEm_)  
-  ![화면6](https://drive.google.com/uc?id=1VJ-BciCK5u3FcUxIJy1KYCUXX2P_41eB)  
-  ![화면7](https://drive.google.com/uc?id=1uuxEzLK7scoeSVOShpmy3J3yuJ63NRi1)  
-  ![화면8](https://drive.google.com/uc?id=1VGsfryN3tQ96wbblTjeKhs9IyLZTEGRg)  
-  ![화면9](https://drive.google.com/uc?id=1dfZvqbG9ueTYVmzVRbyAmXvDNHe_Joyp)  
-  ![화면10](https://drive.google.com/uc?id=1dUwCd3wUYsj_5ndBZNVifgXOH5LdjWqv)  
-  ![화면11](https://drive.google.com/uc?id=1m9Gcwv_4PrH3krgpaQk-5UaEqvrs6-Fc)  
-  ![화면12](https://drive.google.com/uc?id=1NL6cHICa1-psjZ-YmkLcv9Pb9tI_RtKb)  
-  ![화면13](https://drive.google.com/uc?id=1tNXqpTcewchG1zuWEIylpeuXeGjOVsxB)  
+![image](https://github.com/user-attachments/assets/3627212d-cbb8-4726-80bd-6c680fc5b21a)
+![image](https://github.com/user-attachments/assets/4bf0a1f3-8cf5-4ba4-a597-93dc9accf0cc)
+![image](https://github.com/user-attachments/assets/924b98bc-163d-4381-a924-ec241b514172)
+![image](https://github.com/user-attachments/assets/1cd423c9-2e35-4c23-b20c-89042d1cf74a)
+![image](https://github.com/user-attachments/assets/45d0a623-6bbe-4ffb-9278-c68b1ef1d9a1)
+![image](https://github.com/user-attachments/assets/36ac3217-61da-435a-94a3-fa9b86096e1d)
+![image](https://github.com/user-attachments/assets/12c4096a-bd48-4bf8-a085-e63c660290ef)
+
 
 </details>
 
