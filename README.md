@@ -48,7 +48,7 @@
 <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
   
   
-  ![개발 환경 이미지]![image](https://github.com/user-attachments/assets/1cfc0400-5d5f-4bc4-8576-62a5df548cc6)
+  [image](https://github.com/user-attachments/assets/1cfc0400-5d5f-4bc4-8576-62a5df548cc6)
 
 
 
