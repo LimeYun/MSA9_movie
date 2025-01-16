@@ -44,22 +44,22 @@
 
 ---
 
-
+<details>
 <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
   
   
   ![image](https://github.com/user-attachments/assets/1cfc0400-5d5f-4bc4-8576-62a5df548cc6)
 
-
+</details>
 
 
 ---
 
-
+<details>
 <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
   
    ![image](https://github.com/user-attachments/assets/6b4ea707-a130-44b6-b6e4-b075bd58ada7)
-
+</details>
 
 
 
