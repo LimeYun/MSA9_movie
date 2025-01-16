@@ -4,6 +4,10 @@
 
 ![image](https://github.com/user-attachments/assets/32dc0467-c43d-48d9-a4a9-b1a253ef9b80)
 
+![image](https://github.com/user-attachments/assets/a7e9584d-44b8-4213-bf13-9c3dc7c9de45)
+
+
+
 ---
 
 ## 🎥 **프로젝트 발표 영상**  
