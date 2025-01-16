@@ -58,7 +58,8 @@
 
 <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
   
-   ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+   ![image](https://github.com/user-attachments/assets/6b4ea707-a130-44b6-b6e4-b075bd58ada7)
+
 
 
 
@@ -67,12 +68,13 @@
 
 <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>
   
-  - 사용자(유저) 기능 정의서
- 
-    ![image](https://github.com/user-attachments/assets/36f473e1-be4c-412c-aa74-a4ae4850f6ea)  
-  - 관리자 기능 정의서
+  ![image](https://github.com/user-attachments/assets/6c2567ac-311a-4c91-942e-78efc60e736a)
+  ![image](https://github.com/user-attachments/assets/4b734027-7a78-464b-9d2b-e80753845417)
+  ![image](https://github.com/user-attachments/assets/56eb3a57-564a-4709-815f-a94bc0585cdd)
+  ![image](https://github.com/user-attachments/assets/9d6fe3d6-bb45-4f49-ac62-823ee5840872)
 
-    ![image](https://github.com/user-attachments/assets/6e0eef6f-38a4-46fc-9309-9233e7c01a9a)
+
+
 
 
 ---
@@ -80,7 +82,7 @@
 
 <summary><h2>🗂️ <strong>ERD</strong></h2></summary>
   
-  ![ERD 이미지](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F2317d53d-12bb-40e1-bf7e-43a3f29dda8a%2Fimage.png?table=block&id=16b902bd-b12f-8032-8568-e03391399423&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1920&userId=&cache=v2)
+ ![image](https://github.com/user-attachments/assets/119fd5e7-db40-4377-a8cf-95e2704693b0)
 
 
 
