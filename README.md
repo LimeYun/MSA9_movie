@@ -92,46 +92,35 @@
   <summary><h2>📃 <strong>테이블 정의서</strong></h2></summary>
 
   **users**  
-  ![파일 1](https://drive.google.com/uc?export=view&id=1uIkf6OmogJD5af0uHBwp7YV3TTbpH3VZ)
+  ![image](https://github.com/user-attachments/assets/4e0c97c4-7e48-4ca8-a41b-625d3bb49eb6)
 
-  **user_auth**  
-  ![파일 2](https://drive.google.com/uc?export=view&id=1jN24i-GWXzEaQF1ihnPVtD_BxswsBx_r)
 
-  **trainer_profile**  
-  ![파일 3](https://drive.google.com/uc?export=view&id=1TPs7lZxuO-pEYjJHMdNwJWV61aEUtdf9)
+  **rules**  
+  ![image](https://github.com/user-attachments/assets/bef8e83e-000f-4c14-b12f-03a814496d36)
 
-  **ticket**  
-  ![파일 4](https://drive.google.com/uc?export=view&id=1scpM-FcbpngM4dxbmNXPtbgUdVckzusZ)
 
-  **reservation**  
-  ![파일 5](https://drive.google.com/uc?export=view&id=1xvzmCFNDani9r9_2bwRL4lEzRCZBXmIN)
+  **posts**  
+  ![image](https://github.com/user-attachments/assets/19c78c63-fa27-4db1-8493-e882e4238260)
 
-  **qr_code**  
-  ![파일 6](https://drive.google.com/uc?export=view&id=18iWrwLE9zu-smJXRqkG0e2l2ZFN8uTqI)
 
-  **plan**  
-  ![파일 7](https://drive.google.com/uc?export=view&id=1b2RnAr5tEDigonnXHQxR9BaWqA42da09)
+  **files**  
+  ![image](https://github.com/user-attachments/assets/9f549975-621c-4767-b26a-ed894edc7e23)
 
-  **persistent_logins**  
-  ![파일 8](https://drive.google.com/uc?export=view&id=18N74mHKPW_teWLFvMnrmO_g9BT7kMB_X)
 
-  **file**  
-  ![파일 9](https://drive.google.com/uc?export=view&id=1LZ9m864zA8lH-9QELMlB3eMvwYrSozVY)
+  **replies**  
+  ![image](https://github.com/user-attachments/assets/2b903ba9-ad2c-4e0e-bffb-9ed76670496b)
 
-  **comment**  
-  ![파일 10](https://drive.google.com/uc?export=view&id=1XMzew_jB9ZQr48ADICPEvtZIUg27Fw4E)
 
-  **buy_list**  
-  ![파일 11](https://drive.google.com/uc?export=view&id=1jBHzorTvyaTU4mbavzbr8hU-AmjM0GAV)
+  **tokens**  
+  ![image](https://github.com/user-attachments/assets/14992b2f-10db-4be2-853a-dd9d896a0788)
 
-  **board**  
-  ![파일 12](https://drive.google.com/uc?export=view&id=1EttYQgue7v7_pV5ST8ZMe9LE25uHIALg)
 
-  **attendance**  
-  ![파일 13](https://drive.google.com/uc?export=view&id=1XhCdlUg7401eCwPyEmInVpV7fgyPHMJJ)
+  **movies**  
+  ![image](https://github.com/user-attachments/assets/74c77eda-1f15-4003-b858-2907c0f7d6e9)
 
-  **answer**  
-  ![파일 14](https://drive.google.com/uc?export=view&id=1ecTX_u14K37SFcFf8VHYahDJGN8yru5g)
+
+  **keywords**  
+  ![image](https://github.com/user-attachments/assets/4705fda0-aef2-4ee7-bc7d-693afdd0add0)
 
 </details>                                                                                                                    
 
