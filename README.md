@@ -7,7 +7,8 @@
 ---
 
 ## 🎥 **프로젝트 발표 영상**  
-[**발표 영상 링크**](https://youtu.be/tROcWjKgmTU?si=jT7TXKWd8OXaBon-)
+[**발표 영상 링크**](https://youtu.be/tROcWjKgmTU?si=jT7TXKWd8OXaBon- target="_blank")
+
 
 
 
