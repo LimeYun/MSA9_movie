@@ -21,7 +21,6 @@
 
 ---
 
-
 ## 1. **프로젝트 요약**
 
 ### 프로젝트 인원                 
@@ -29,21 +28,18 @@
 
 ### 프로젝트 기간
 - 2024-10-16 ~ 2024-10-28
-  
----
 
-## 👥 **팀 구성**
-| **이름**   | **담당 기능**                       |
-|-----------|----------------------------------|
-| **강민아** | 회원가입, 로그인, 회원정보수정 |
-| **김동진** | 게시글, 영화 정보 관리, 전체기능보조 |
-| **문봉현** | 회원 관리, 게시글 관리, 영화 정보 화면  |
-| **홍성윤** | 레이아웃/UI 구성, 소개글 |
+### 담당 개발기능 및 구현
+- 소개글 기능           : 
+- 화면 레이아웃/UI 구성 : 
 
----
-
-## 🗓️ **프로젝트 기간**
-###  **2024-10-16 ~ 2024-10-28**
+### 사용 기술
+- 프론트엔드              : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+- 백엔드                  : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
 
 ---
 ## 🚀 **프로젝트 수행 절차**
