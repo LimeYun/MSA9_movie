@@ -42,29 +42,18 @@
 ### 주요 기능 화면
 
 - 영화 정보
+
 ![image](https://github.com/user-attachments/assets/bbda52df-747a-47a0-9ea4-801a007c1139)
 
 
 - 소개글/게시글
+
 ![image](https://github.com/user-attachments/assets/9c379535-fa00-47d3-bf9d-b8ddf0d0f52e)
 
 
-
-
-
-
 ---
 
-<details>
-<summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
-  
-  
-  ![image](https://github.com/user-attachments/assets/1cfc0400-5d5f-4bc4-8576-62a5df548cc6)
-
-</details>
-
-
----
+## 2. **프로젝트 구조 및 ERD**
 
 <details>
 <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>
