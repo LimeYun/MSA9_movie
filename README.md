@@ -5,7 +5,7 @@
 
 
 ---
-**NetStar** (JSP/Servlet기반 미니 프로젝트)
+*NetStar* (JSP/Servlet기반 미니 프로젝트)
 
 
 
