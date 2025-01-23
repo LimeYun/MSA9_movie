@@ -30,14 +30,21 @@
 - 2024-10-16 ~ 2024-10-28
 
 ### 담당 개발기능 및 구현
-<p>- 소개글 기능           : </p> asdadas
-<p>- 화면 레이아웃/UI 구성 : </p> sadasdsadsad
+- **소개글 기능**
+: 
+
+- **화면 레이아웃/UI 구성**
+:
 
 ### 사용 기술
-- 프론트엔드              : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-- 백엔드                  : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
-- 데이터베이스            : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-- 기타                    : <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+- **프론트엔드**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+- **백엔드**
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+- **데이터베이스**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+- **기타**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 
 ### 주요 기능 화면
 
