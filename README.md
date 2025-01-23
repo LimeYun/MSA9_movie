@@ -34,20 +34,23 @@
 - 화면 레이아웃/UI 구성 : 
 
 ### 사용 기술
-- 프론트엔드              : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-- 백엔드                  : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+- 프론트엔드              : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+- 백엔드                  : <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+- 데이터베이스            : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+- 기타                    : <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 
----
-## 🚀 **프로젝트 수행 절차**
- ### <span style="color:#FF5733;">1️⃣</span> **주제선정 및 기획 의도 선정**  
- ### <span style="color:#33A1FF;">2️⃣</span> **요구사항, 기능 정의서 작성**  
- ### <span style="color:#33FF57;">3️⃣</span> **DB 설계, 피그마 화면 설계**  
- ### <span style="color:#FF33F6;">4️⃣</span> **기능 개발 **  
- ### <span style="color:#FFD700;">5️⃣</span> **테스트 및 수정, 결과보고서 작성**
+### 주요 기능 화면
+
+- 영화 정보
+![image](https://github.com/user-attachments/assets/bbda52df-747a-47a0-9ea4-801a007c1139)
+
+
+- 소개글/게시글
+![image](https://github.com/user-attachments/assets/9c379535-fa00-47d3-bf9d-b8ddf0d0f52e)
+
+
+
+
 
 
 ---
