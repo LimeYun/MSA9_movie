@@ -1,4 +1,8 @@
-# 🎥 **프로젝트 : NetStar**
+# 🎥 **프로젝트 : NetStar (JSP/Servlet기반 미니 프로젝트)**
+
+"NetStar" 는 사용자가 영화 정보를 제공받고, 
+영화 속 요소들을 공유할 수 있는 커뮤니티 사이트 입니다.
+간단 편리한 화면과 빠른 요청 처리로 사용자에게 우수한 경험을 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/a7e9584d-44b8-4213-bf13-9c3dc7c9de45)
 
@@ -6,12 +10,6 @@
 
 ## 🎥 **프로젝트 발표 영상**  
 <a href="https://youtu.be/tROcWjKgmTU?si=jT7TXKWd8OXaBon-" target="_blank">**발표 영상 링크**</a>
-
----
-
-**NetStar** (JSP/Servlet기반 미니 프로젝트)
- "NetStar" 는 사용자가 영화 정보를 제공받고, 영화 속 요소들을 공유할 수 있는 커뮤니티 사이트 입니다.
-간단 편리한 화면과 빠른 요청 처리로 사용자에게 우수한 경험을 제공합니다.
  
 ---
 
@@ -20,9 +18,6 @@
 3. 요구사항 및 기능 정의서
 4. 트러블슈팅
 5. 학습포인트와 보완점
-
-
-
 
 ---
 
