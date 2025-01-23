@@ -5,7 +5,11 @@
 
 
 ---
+**NetStar** (JSP/Servlet기반 미니 프로젝트)
 
+
+
+---
 ## 🎥 **프로젝트 발표 영상**  
 <a href="https://youtu.be/tROcWjKgmTU?si=jT7TXKWd8OXaBon-" target="_blank">**발표 영상 링크**</a>
 
