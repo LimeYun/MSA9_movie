@@ -111,4 +111,6 @@
 # 4. **학습포인트와 보완점**
 
 
+![image](https://github.com/user-attachments/assets/1b83896a-d8aa-40ea-b0ed-320a66e44d4a)
+
 
