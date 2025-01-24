@@ -10,6 +10,10 @@
 <a href="https://youtu.be/tROcWjKgmTU?si=jT7TXKWd8OXaBon-" target="_blank">**발표 영상 링크**</a>
 
 
+---
+
+
+## **프로젝트 목차**
 
 ### 1. 프로젝트 요약
 ### 2. 프로젝트 ERD 및 화면 설계
@@ -38,13 +42,24 @@
 
 ### 사용 기술
 <p>프론트엔드</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></p>
 <p>백엔드</p>
-<p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+</p>
 <p>데이터베이스</p>
-<p><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
 <p>기타</p>
-<p><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></p>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+</p>
 
 ### 주요 기능 화면
 
