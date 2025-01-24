@@ -120,7 +120,10 @@
 
   ![image](https://github.com/user-attachments/assets/dbb169e4-c1ec-4a1e-b068-6ea960a3ba29)
 
-                                              👇
+                                              <div style="text-align: center;">
+    <span>👇</span>
+</div>
+
 
   ![image](https://github.com/user-attachments/assets/e64e9377-c9bb-4521-84b7-6f0ae2b447b0)
 
