@@ -120,7 +120,7 @@
 
   ![image](https://github.com/user-attachments/assets/dbb169e4-c1ec-4a1e-b068-6ea960a3ba29)
 
-  <div style="text-align: center;"><span>👇</span></div>
+  👇
 
 
   ![image](https://github.com/user-attachments/assets/e64e9377-c9bb-4521-84b7-6f0ae2b447b0)
@@ -134,6 +134,8 @@
 
 # 4. **학습포인트와 보완점**
 
+
+- 비동기 방식을 프로젝트에 적용했고, 그에 따른 더 빠르고 효율적인 데이터 처리 및 향상된 사용자 경험을 제공했습니다. 요청 지연이나 서버 처리 시간을 줄였고, 
 
 ![image](https://github.com/user-attachments/assets/1b83896a-d8aa-40ea-b0ed-320a66e44d4a)
 
